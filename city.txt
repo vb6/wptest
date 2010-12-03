@@ -1,8 +1,8 @@
 Tamil Nadu
 
-1. Chennai
-2. Coimbatore
-3. Salam
+a. Chennai
+b. Coimbatore
+c. Salam
 
 Kerala
 
